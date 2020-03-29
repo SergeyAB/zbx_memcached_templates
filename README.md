@@ -7,7 +7,7 @@ Unix socket disables network support.
 - On the zabbix server web page import XML template file.
 
 
-Change macroses `{$MEMCACHED_SERVER}` and `{$MEMCACHED_PORT}` if you need.
+Change macroses `{$MEMCACHED_SERVER}` and `{$MEMCACHED_PORT}` if you need.<br>
 Use IP address instead of hostname in `{$MEMCACHED_SERVER}`.
 
 ## References
