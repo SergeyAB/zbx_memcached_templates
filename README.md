@@ -4,6 +4,7 @@
 Unix socket disables network support.
 
 #### Installation
+-----
 * Put userparameter_memcached.conf into UserParameter's directory.
 * On the zabbix server web page import XML template file.
 
