@@ -6,7 +6,8 @@ Unix socket disables network support.
 - Put `userparameter_memcached.conf` into UserParameter's directory.
 - On the zabbix server web page import XML template file.
 
-Change `{$MEMCACHED_SERVER}` and `{$MEMCACHED_PORT}` if you need.
+Change macroses `{$MEMCACHED_SERVER}` and `{$MEMCACHED_PORT}` if you need.
+
 Use IP address instead of hostname in `{$MEMCACHED_SERVER}`.
 
 ## References
