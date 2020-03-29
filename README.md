@@ -1,5 +1,5 @@
 ## Requirements
-* Template items uses telnet connection, so Memcached have to be configured to use network.
+Template items uses telnet connection, so Memcached have to be configured to use network.
 Unix socket disables network support.
 
 ## Installation
